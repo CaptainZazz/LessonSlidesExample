@@ -1,0 +1,9 @@
+[
+    { 
+        "Name": "One", 
+        "Category": "Example", 
+        "Url": "https://raw.githubusercontent.com/CaptainZazz/LessonSlidesExample/main/Example/One.json",
+        "AuthorId": "example-author-id",
+        "AuthorName": "ExampleAuthorName"
+    }
+]

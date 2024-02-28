@@ -1,0 +1,24 @@
+{
+    "Name": "Example One",
+    "Category": "Example",
+    "AuthorId": "example-author-id",
+    "AuthorName": "ExampleAuthorName",
+    "Slides": [
+        {
+            "Title": "Red", 
+            "Subtitle": "The Red Slide",
+            "Description": "This slide shows the color red.",
+            "ImageUrl": "https://raw.githubusercontent.com/CaptainZazz/LessonSlidesExample/main/Example/One/red.jpeg"
+        },{
+            "Title": "Green", 
+            "Subtitle": "The Green Slide",
+            "Description": "This slide shows the color green.",
+            "ImageUrl": "https://raw.githubusercontent.com/CaptainZazz/LessonSlidesExample/main/Example/One/green.jpeg"
+        },{
+            "Title": "Blue", 
+            "Subtitle": "The Blue Slide",
+            "Description": "This slide shows the color blue.",
+            "ImageUrl": "https://raw.githubusercontent.com/CaptainZazz/LessonSlidesExample/main/Example/One/blue.jpeg"
+        }
+    ]
+}
